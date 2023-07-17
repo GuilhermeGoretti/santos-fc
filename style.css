@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: 	#D3D3D3;
+    color: #DAA520;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.cabecalho-imagem{
+    width: 30%;
+}
+
+.vila-imagem{
+    width: 34%;
+}
+
+.time-santos{
+    background-image: linear-gradient(	#696969,#DCDCDC);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.santos-div-conteudo{
+    width: 35%;
+}
+
+.santos-titulo{
+    padding: 24px 0;
+}
+
+.goleiro-imagem{
+    width:120px;
+}
+
+.goleiro-icone{
+    width: 29px;
+}
+
+.titular-div{
+    text-align: center;
+}
+
+.time-titulo{
+    text-align: center;
+    color: #DAA520;
+    padding: 50px 0;
+}
+
+.jogadores-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% ;
+}
+
+.joao-imagem{
+    width: 38%;
+}
+.volante-imagem{
+    width: 29%;
+}
+.lucas-imagem{
+    width: 26%;
+}
+.marcos-imagem{
+    width: 34%;
+}
+.mend-imagem{
+    width: 32%;
+}
+.braga-imagem{
+    width: 49%;
+}
